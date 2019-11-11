@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-11_1616",
+    "name": "Don't Starve Together",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,6 +37,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.8",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/don-t-starve-together-klei-entertainment-youtube-video-game-others-128x158.png",
+    "noImageResize": "",
     "uniqCompNum": 7,
     "versionPublish": "4.10.8"
   },
